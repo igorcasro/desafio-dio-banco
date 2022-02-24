@@ -9,6 +9,14 @@ Após receber a base do projeto é recomendado:
 
 
 
+## Meu desenvolvimento
+
+Tive bastante dificuldade com a lógica e muita coisa que implementei ainda não tinha visto, sendo assim, não está algo 100% funcional mas, no caso de somente uma conta de cada tipo ainda funciona. Gostaria, inclusive que, caso alguém veja este código me ajude nessa questão. Já tentei diversas vezes e simplesmente não consigo realizar o problema de acesso a somente uma conta.
+
+De resto o código funciona bem, realiza todas as funções pedidas.
+
+
+
 ### Links Úteis
 
 [GitHub com todas as aulas vistas no BootCamp da DIO](https://github.com/igorcasro/primeiro-desafio-dio-bootcamp)
